@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 </head>
@@ -18,4 +18,4 @@ header {
   font-size: 35px;
   color: white;
 <header>
-  <h1>BishalMarket</h1>
+  <h2>BishalMarket</h2>
