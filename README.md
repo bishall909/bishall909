@@ -18,5 +18,4 @@ header {
   font-size: 35px;
   color: white;
 <header>
-  <h2>MARKET</h2>
-</header>
+  <h1>BishalMarket</h1>
