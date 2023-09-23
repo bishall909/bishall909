@@ -1,4 +1,4 @@
-
+A
 <html>
 <head>
 </head>
@@ -12,7 +12,7 @@
 
 /* Style the header */
 header {
-  background-color: #666;
+  background-color: #656;
   padding: 30px;
   text-align: center;
   font-size: 35px;
